@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Henrique Rezende Chagas
 
-**`Desenvolvedora FullStack`**
+**`Estudante de Desenvolvimento de Sistemas`**
 
 Me chamo Henrique Rezende Chagas, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursando o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas na **ETEC de Tabõao da Serra**. Sou entusiasta em tecnologias e inteligência artificial e busco sempre desenvolver projetos e soluções para problemas através delas.
 
