@@ -1,9 +1,7 @@
 # 👩🏻‍💻 Henrique Rezende Chagas
-**`
-Estudante de Desenvolvimento de Sistemas
-`**
+**Estudante de Desenvolvimento de Sistemas**
 Me chamo Henrique Rezende Chagas, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursando o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas na 
-**ETEC de Tabõao da Serra**
+**ETEC de Taboão da Serra**
 . Sou entusiasta em tecnologias e inteligência artificial e busco sempre desenvolver projetos e soluções para problemas através delas.
 
 <p align="left">
@@ -83,17 +81,17 @@ Me chamo Henrique Rezende Chagas, tenho 19 anos e sou natural de São Paulo. Atu
 ### 📊 Estatísticas
 
 <p align="left">
-  <img 
-      align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=henriquercz&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquercz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    <img 
+            align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats-opal-omega.vercel.app/api?username=henriquercz&show_icons=true&theme=tokyonight&locale=pt-br" 
+    />
+    <img 
+            align="left" 
+            alt="GitHub Stats" 
+            height="200" 
+            src="https://github-readme-stats-opal-omega.vercel.app/api/top-langs/?username=henriquercz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
 </p>
