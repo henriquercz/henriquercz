@@ -1,8 +1,8 @@
 # 👩🏻‍💻 Henrique Rezende Chagas
-**Estudante de Desenvolvimento de Sistemas**
-Me chamo Henrique Rezende Chagas, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursando o ensino médio integrado ao curso técnico de Desenvolvimento de Sistemas na 
-**ETEC de Taboão da Serra**
-. Sou entusiasta em tecnologias e inteligência artificial e busco sempre desenvolver projetos e soluções para problemas através delas.
+## **Técnico em Desenvolvimento de Sistemas**
+
+Me chamo **Henrique Rezende Chagas**, tenho 19 anos e sou natural de São Paulo. Atualmente estou cursando Inteligência Artificial em Sistemas da Informação na **São Paulo Tech School - SPTech**, no primeiro semestre. Também cursei o Ensino Médio com Habilitação Profissional em Técnico de Desenvolvimento de Sistemas na 
+**ETEC de Taboão da Serra**. Sou entusiasta em tecnologias e inteligência artificial e busco sempre desenvolver projetos e soluções para problemas através delas.
 
 <p align="left">
     <a href="https://github.com/henriquercz?tab=repositories&sort=stargazers">
