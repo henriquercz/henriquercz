@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=sudo+su+-+henriquercz;>+Iniciando+ambiente+de+desenvolvimento...;>+Técnico+em+Desenvolvimento+de+Sistemas;>+Estudante+de+Inteligência+Artificial+-+SPTech;>+Sistemas+operacionais+prontos." alt="Terminal SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=%24+sudo+su+-+henriquercz;%24+Iniciando+ambiente+de+desenvolvimento...;%24+Tecnico+em+Desenvolvimento+de+Sistemas;%24+Estudante+de+Inteligencia+Artificial+-+SPTech;%24+Sistemas+operacionais+prontos." alt="Terminal SVG" />
 </div>
 
 <div align="center">
   <a href="https://github.com/henriquercz">
-    <img src="https://github-profile-trophy.vercel.app/?username=henriquercz&theme=onedark&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=henriquercz&theme=dark&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="Trophies" />
   </a>
 </div>
 
@@ -49,20 +49,20 @@ Me chamo **Henrique Rezende Chagas**, tenho 19 anos e sou natural de São Paulo.
 ### 📊 Telemetria e Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats-opal-omega.vercel.app/api?username=henriquercz&show_icons=true&theme=onedark&locale=pt-br&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="195" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats-opal-omega.vercel.app/api/top-langs/?username=henriquercz&theme=onedark&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=00000000" alt="Top Linguagens" height="195" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats-opal-omega.vercel.app/api?username=henriquercz&show_icons=true&theme=tokyonight&locale=pt-br&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="195" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats-opal-omega.vercel.app/api/top-langs/?username=henriquercz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=00000000" alt="Top Linguagens" height="195" style="margin-right: 10px;" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquercz&theme=onedark&hide_border=true&background=00000000" alt="GitHub Streak" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=henriquercz&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" height="195" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquercz&theme=onedark&hide_border=true&bg_color=00000000" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henriquercz&theme=tokyonight&hide_border=true&bg_color=00000000" width="100%" alt="Activity Graph" />
 </div>
 
 ---
