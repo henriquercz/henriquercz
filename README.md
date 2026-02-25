@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=800&height=50&lines=%24+sudo+su+-+henriquercz;%24+Iniciando+ambiente+de+desenvolvimento...;%24+Tecnico+em+Desenvolvimento+de+Sistemas;%24+Estudante+de+Inteligencia+Artificial+em+Sistemas+de_Informação+-+SPTech;%24+Sistemas+operacionais+prontos." alt="Terminal SVG" />
-</div>
-
 ---
 
 # 👩🏻‍💻 Henrique Rezende Chagas
