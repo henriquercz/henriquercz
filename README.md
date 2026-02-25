@@ -16,10 +16,10 @@ Me chamo **Henrique Rezende Chagas**, tenho 19 anos e sou natural de São Paulo.
   <a href="https://github.com/henriquercz?tab=followers">
     <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/henriquercz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/henriquercz" target="_blank">
+  <a href="https://www.linkedin.com/in/henrique-rezende-chagas" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:COLOQUE_SEU_EMAIL_AQUI@exemplo.com" target="_blank">
+  <a href="mailto:henriquechagas06@gmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
